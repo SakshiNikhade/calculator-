@@ -1,0 +1,32 @@
+.container{
+    margin: 200px;
+    margin-left: 500px;
+}
+
+.table{
+    margin-left:50px;
+    margin-top: 60px;
+    border:1px;
+}
+
+.h1{
+    margin-left:170px;
+
+}
+button{
+    width:100px;
+    background-color: blue;
+    color:white;
+    font-weight:bolder;
+    height:50px;
+   
+}
+.w-100{
+    width:300px;
+    height:40px;
+    font-weight:bolder;
+    
+}
+table tr{
+    border:none !important;
+}
